@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Mercurio",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mercury_in_true_color.jpg",
+    "masa": "3.30 × 10^23 kg",
+    "distancia": "57.9 millones de km",
+    "temperatura": "430°C"
+  },
+  {
+    "nombre": "Venus",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/39/Venus_real_color.jpg",
+    "masa": "4.87 × 10^24 kg",
+    "distancia": "108.2 millones de km",
+    "temperatura": "462°C"
+  },
+  {
+    "nombre": "Tierra",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Earth_seen_from_Apollo_17.jpg",
+    "masa": "5.97 × 10^24 kg",
+    "distancia": "149.6 millones de km",
+    "temperatura": "15°C"
+  },
+  {
+    "nombre": "Marte",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Marte_%28planeta%29.jpg",
+    "masa": "6.42 × 10^23 kg",
+    "distancia": "227.9 millones de km",
+    "temperatura": "-60°C"
+  },
+  {
+    "nombre": "Júpiter",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter_-_2006_April_21.jpg",
+    "masa": "1.90 × 10^27 kg",
+    "distancia": "778.5 millones de km",
+    "temperatura": "-108°C"
+  },
+  {
+    "nombre": "Saturno",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Saturn_during_Equinox.jpg",
+    "masa": "5.68 × 10^26 kg",
+    "distancia": "1.43 mil millones de km",
+    "temperatura": "-139°C"
+  },
+  {
+    "nombre": "Urano",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg",
+    "masa": "8.68 × 10^25 kg",
+    "distancia": "2.87 mil millones de km",
+    "temperatura": "-224°C"
+  },
+  {
+    "nombre": "Neptuno",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Neptune_Full.jpg",
+    "masa": "1.02 × 10^26 kg",
+    "distancia": "4.50 mil millones de km",
+    "temperatura": "-214°C"
+  }
+]

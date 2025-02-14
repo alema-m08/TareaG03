@@ -1,0 +1,80 @@
+/* styles.css */
+
+/* Slider */
+.slider {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.slider img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.slider img:hover {
+  transform: scale(1.1);
+}
+
+/* Estilos de las pestañas */
+.tabs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.tab-btn {
+  background-color: #f1f1f1;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.tab-btn.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.tab-content {
+  display: none;
+  margin-top: 20px;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.tab-content p {
+  font-size: 18px;
+}
+
+/* Estilo para el slider */
+.slider {
+  display: flex;
+  overflow-x: auto;
+  width: 100%;
+  justify-content: flex-start;
+  margin: 20px 0;
+  gap: 10px;
+}
+
+.slider img {
+  max-width: 200px;
+  height: auto;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.slider img:hover {
+  transform: scale(1.05);
+}
