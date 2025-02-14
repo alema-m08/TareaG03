@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gráfica de Ventas Mensuales</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Gráfica de Ventas Mensuales</h1>
+
+    <!-- Selector de año -->
+    <label for="year-selector">Selecciona un Año:</label>
+    <select id="year-selector">
+      <option value="2023">2023</option>
+      <option value="2024">2024</option>
+    </select>
+
+    <!-- Contenedor de la gráfica -->
+    <canvas id="salesChart" width="400" height="200"></canvas>
+
+    <script src="script.js"></script>
+  </body>
+</html>

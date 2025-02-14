@@ -1,0 +1,30 @@
+{
+  "2023": {
+    "Enero": 2000,
+    "Febrero": 1500,
+    "Marzo": 1800,
+    "Abril": 2200,
+    "Mayo": 2400,
+    "Junio": 2500,
+    "Julio": 2100,
+    "Agosto": 2300,
+    "Septiembre": 2000,
+    "Octubre": 2100,
+    "Noviembre": 2200,
+    "Diciembre": 2600
+  },
+  "2024": {
+    "Enero": 2200,
+    "Febrero": 1600,
+    "Marzo": 2000,
+    "Abril": 2300,
+    "Mayo": 2600,
+    "Junio": 2700,
+    "Julio": 2400,
+    "Agosto": 2500,
+    "Septiembre": 2200,
+    "Octubre": 2400,
+    "Noviembre": 2500,
+    "Diciembre": 2800
+  }
+}
